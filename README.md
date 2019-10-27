@@ -23,6 +23,7 @@ Para executar a aplicação, basta abrir o arquivo **index.html** no navegador d
 # Contato
 
 > thiago.aguiar@prof.infnet.edu.br
+
 > +55 (21) 9 9534.4540
 
 Qualquer inconsistência no material, pode ser reportada enviando-se um email para o endereço indicado.
